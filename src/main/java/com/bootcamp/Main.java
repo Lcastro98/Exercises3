@@ -7,7 +7,6 @@ public class Main {
 
         Car myCar = new Car();
         myCar.addDoor();
-        myCar.addDoor();
         System.out.println("El numero de puestas del carro es: " + myCar.getDoors());
     }
 
